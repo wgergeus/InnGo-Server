@@ -1,7 +1,7 @@
 # InnGo App
 
 <p align="center">
-  <img src="logo.png" alt="InnGo" width="180">
+  <img src="logo.png" alt="InnGo" width="280">
 </p>
 
 > **InnGo App** is the hotel-side Property Management System (PMS) of the InnGo platform.
